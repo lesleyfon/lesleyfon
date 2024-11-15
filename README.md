@@ -2,17 +2,19 @@
 
 
 <a href="https://www.linkedin.com/in/lesley-banadzem/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://camo.githubusercontent.com/5e276c6fba1d9ca47f6fece34740b3de2884779ab8bb240c71123c467adc5936/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6c696e6b6564696e" />
 </a>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on spotify app
-- 🌱 I’m currently learning Remix
+- 🌱 I’m currently learning GO
 - 👯 I’m looking to collaborate on Open Source
 - 💬 Ask me about anything
-- <a href="https://www.linkedin.com/in/lesley-banadzem/">How to reach me: <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+- <a href="https://www.linkedin.com/in/lesley-banadzem/">How to reach me: <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://camo.githubusercontent.com/5e276c6fba1d9ca47f6fece34740b3de2884779ab8bb240c71123c467adc5936/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6c696e6b6564696e" /></a>
 
-**languages and tools:**  
+**Languages and tools:**  
+
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
