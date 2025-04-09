@@ -1,8 +1,8 @@
-### Hi there 👋
+
 
 
 <a href="https://www.linkedin.com/in/lesley-banadzem/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://camo.githubusercontent.com/5e276c6fba1d9ca47f6fece34740b3de2884779ab8bb240c71123c467adc5936/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6c696e6b6564696e" />
+  <h1>Hi there 👋</h1>
 </a>
 
 Here are some ideas to get you started:
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning GO
 - 👯 I’m looking to collaborate on Open Source
 - 💬 Ask me about anything
-- <a href="https://www.linkedin.com/in/lesley-banadzem/">How to reach me: <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://camo.githubusercontent.com/5e276c6fba1d9ca47f6fece34740b3de2884779ab8bb240c71123c467adc5936/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6c696e6b6564696e" /></a>
+- <a href="https://www.linkedin.com/in/lesley-banadzem/">How to reach me</a>
 
 **Languages and tools:**  
 
