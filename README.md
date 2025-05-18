@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Open Source
 - 💬 Ask me about anything
 - <a href="https://www.linkedin.com/in/lesley-banadzem/">How to reach me</a>
-
+- [![roadmap.sh](https://roadmap.sh/card/wide/67aa5d3af86334348257538a?variant=light&roadmaps=golang)](https://roadmap.sh)
 **Languages and tools:**  
 
 <p>
